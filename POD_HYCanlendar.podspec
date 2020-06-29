@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'POD_HYCanlendar'
-  s.version          = '1.0.0'
+  s.version          = '1.0.2'
   s.summary          = '日历'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ITHanYong' => '1152829171@qq.com' }
-  s.source           = { :git => 'https://github.com/ITHanYong/POD_HYCanlendar.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ITHanYong/POD_HYCanlendar.git', :tag => "1.0.2" }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

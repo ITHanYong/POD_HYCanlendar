@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'POD_HYCanlendar'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of POD_HYCanlendar.'
+  s.version          = '1.0.0'
+  s.summary          = '日历'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
